@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=MyWorld
+comment1.params=
+comment1.target=MyWorld()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=boolean\ canMove()
+comment4.params=
+comment4.target=void\ updateDisplay()
+comment5.params=
+comment5.target=void\ newQuestion()
+comment6.params=answer
+comment6.target=void\ placeAnswer(Answer)
+comment7.params=correct
+comment7.target=void\ answerChosen(boolean)
+comment8.params=
+comment8.target=void\ endGame()
+numComments=9

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=MathHelper
+comment1.params=max
+comment1.target=int\ randomNumber(int)
+comment2.params=correctAnswer
+comment2.target=int\ wrongAnswer(int)
+numComments=3

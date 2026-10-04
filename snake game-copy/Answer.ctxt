@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Answer
+comment1.params=value
+comment1.target=Answer(int)
+comment2.params=
+comment2.target=int\ getValue()
+comment3.params=
+comment3.target=MyWorld\ gameWorld()
+comment4.params=
+comment4.target=void\ collected()
+numComments=5
